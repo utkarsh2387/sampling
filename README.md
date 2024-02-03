@@ -1,1 +1,1 @@
-# Spam-mail-detection
+# Sampling
